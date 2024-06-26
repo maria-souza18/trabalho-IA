@@ -57,7 +57,7 @@
         color: var(--cor-principal);
     }
 
-    @import url();
+    @import url('https://fonts');
     * {
         margin: 0;
         padding: 0;
